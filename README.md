@@ -19,7 +19,7 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
 * Android
 * HTML
 
- # ÁREAS DE INTERESSE 
+ # Áreas de Interesse
  
  * Inteligência Artificial;
  * Visão Computacional;
