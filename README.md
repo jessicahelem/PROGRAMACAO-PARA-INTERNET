@@ -5,7 +5,7 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
 
 ---
 
-**Aluno :** Jéssica Helem
+**Aluno :** Jéssica Helem da Cruz Santos
 
 ## Contatos
 
@@ -31,7 +31,7 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
  ### Dermatoglifia como meio de auxílio no diagnóstico de doenças
  
  ---
-  O projeto está sendo feito no Laboratório de Pesquisa de Sistemas de Multimídia - *LIMS*
+  O projeto está sendo desenvolvido no Laboratório de Pesquisa de Sistemas de Multimídia - *LIMS*
  
  *Orientadores :* Fernando Castelo Branco e Thiago Alves Elias 
   
