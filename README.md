@@ -35,7 +35,7 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
  
  *Orientadores :* Fernando Castelo Branco e Thiago Alves Elias 
   
-  *Atualmente existem 12 alunos participando do projeto.
+  * Atualmente existem 12 alunos participando do projeto.
  
  #### Objetivo
   Criar um aplicativo que gere um relatório de diagnóstico a partir da captura e análise das impressões digitais do paciente.
