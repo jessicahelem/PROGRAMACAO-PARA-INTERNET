@@ -22,7 +22,7 @@
 
  # Áreas de Interesse
  
- * Inteligência Artificial;
+ * Machine Learning;
  * Visão Computacional;
  * Front - End: Desenvolvedor web e mobile;
  
