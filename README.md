@@ -17,6 +17,7 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
 * Python
 * Java
 * Android
+* SQL
 * HTML
 
  # Áreas de Interesse
@@ -28,7 +29,7 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
 
 ## Projeto em Andamento
 
- ### Dermatoglifia como meio de auxílio no diagnóstico de doenças
+ ### Traçar o perfil dermatoglífico de pacientes com Autismo, TDAH e com problemas fonodiólogos.
  
  ---
   O projeto está sendo desenvolvido no Laboratório de Pesquisa de Sistemas de Multimídia - *LIMS*
